@@ -27,7 +27,8 @@
             "qrCodeKeyLength": 20
         },
         "org.gluu.agama.totp.otp": {},
-        "org.gluu.test.coop.flow": {}
+        "org.gluu.test.coop.flow": {},
+        "": {}
     },
     "name": "agama-totp"
 }
